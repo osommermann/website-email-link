@@ -53,9 +53,6 @@ Neben dem täglichen Angebot aus den unterschiedlichen Spielmöglichkeiten, die
 der Laden bietet, gibt es eine Reihe von Aktivitäten, die den Kindern von den
 Erzieherinnen als Angebot gemacht werden:
 
-
-* Kochen und Backen: Jeden zweiten Freitag kochen die Kinder im Kinderladen.
-
 * Bibliothek: Die Kinder gehen regelmäßig in die Stadtbibliothek Neukölln.
 
 * Theater: Wir nutzen gern die unterschiedlichen Möglichkeiten unseres Kiezes,
