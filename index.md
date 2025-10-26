@@ -31,7 +31,7 @@ Wir suchen immer wieder nach Honorarkräften, die in Krankheitsfällen oder
 
 ![](lupenbecher.jpg)
 
-Wir betreuen 21 Kinder zwischen 1 und 6 Jahren und unser Team besteht aktuell aus 4 Erzieherinnen, sowie einer Erzieherin als Quereinsteigerin, einer Erzieherin in Ausbildung und einer Köchin. Außerdem unterstützen uns bei Bedarf unsere tollen Honorarkräfte.
+Wir betreuen 21 Kinder zwischen 17 Monaten und 6 Jahren und unser Team besteht aktuell aus 4 Erzieherinnen, sowie einer Erzieherin als Quereinsteigerin, einer Erzieherin in Ausbildung und einer Köchin. Außerdem unterstützen uns bei Bedarf unsere tollen Honorarkräfte.
 
 Wir haben ein teiloffenes Konzept mit einer Krippe- und einer Elementargruppe.
 
@@ -53,9 +53,6 @@ In unserem Alltag gehen wir regelmäßig und gerne raus und machen längere Ausf
 Neben dem täglichen Angebot aus den unterschiedlichen Spielmöglichkeiten, die
 der Laden bietet, gibt es eine Reihe von Aktivitäten, die den Kindern von den
 Erzieherinnen als Angebot gemacht werden:
-
-
-* Kochen und Backen: Jeden zweiten Freitag kochen die Kinder im Kinderladen.
 
 * Bibliothek: Die Kinder gehen regelmäßig in die Stadtbibliothek Neukölln.
 
