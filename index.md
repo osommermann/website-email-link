@@ -20,16 +20,14 @@ Unsere Adresse lautet:
 
 Der Kinderladen hat wochentags geöffnet von 8:00 bis 16:30 Uhr.
 
-Wendet euch bei Platzanfragen bitte an unsere Email Adresse.
+Wendet euch bei Platzanfragen bitte an unsere Email-Adresse.
 
 Wir suchen immer wieder nach Honorarkräften, die in Krankheitsfällen oder
 ähnlichem bei uns aushelfen können. Bei Interesse schickt bitte eine Mail.
 
 ## Wir sind die Kinkies
 
-::: {.gallery}
-![Sensoriktisch](sensoriktisch.jpg) ![Kunst](kunst.jpg)
-:::
+![Kunst](kunst.jpg)\
 
 Wir betreuen Kinder zwischen 17 Monaten und 6 Jahren und unser pädagogisches Team besteht aktuell aus 4 Erzieherinnen, sowie einer Erzieherin als Quereinsteigerin, einer Erzieherin in Ausbildung und einer Köchin. Außerdem unterstützen uns bei Bedarf unsere tollen Honorarkräfte.
 
@@ -62,6 +60,8 @@ Neben dem täglichen Angebot aus den unterschiedlichen Spielmöglichkeiten, die 
 * Bewegung: Wir besuchen regelmäßig die Bewegungsbaustelle im Schillerkiez
 
 * Weitere Angebote wie Kino, Ludothek, Cafébesuche sowie spezielle Angebote für die Vorschulkinder kommen noch dazu
+
+Wenn ihr uns kennenlernen möchtet, schreibt uns eine Email und kommt auf ein Treffen vorbei!
 
 ::: {.footer}
 Vereinsregister: Amtsgericht Charlottenburg VR9456B
